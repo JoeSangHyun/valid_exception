@@ -1,0 +1,10 @@
+[2022-08-29 23:06:43:478][restartedMain] INFO  c.s.v.ValidExceptionApplication - Starting ValidExceptionApplication using Java 18.0.2 on MSI with PID 40892 (D:\Study\springboot\valid_exception\target\classes started by tiame in D:\Study\springboot\valid_exception)
+[2022-08-29 23:06:43:481][restartedMain] INFO  c.s.v.ValidExceptionApplication - No active profile set, falling back to 1 default profile: "default"
+[2022-08-29 23:07:00:389][restartedMain] INFO  c.s.v.ValidExceptionApplication - Starting ValidExceptionApplication using Java 18.0.2 on MSI with PID 20412 (D:\Study\springboot\valid_exception\target\classes started by tiame in D:\Study\springboot\valid_exception)
+[2022-08-29 23:07:00:390][restartedMain] INFO  c.s.v.ValidExceptionApplication - No active profile set, falling back to 1 default profile: "default"
+[2022-08-29 23:07:02:2819][restartedMain] INFO  c.s.v.ValidExceptionApplication - Started ValidExceptionApplication in 2.669 seconds (JVM running for 3.154)
+[2022-08-29 23:07:35:35737][http-nio-8080-exec-5] ERROR c.s.v.c.e.CustomExceptionHandler - Advice 내 handleException 호출. /exception, getRuntimeException 메서드 호출
+[2022-08-29 23:14:44:404][restartedMain] INFO  c.s.v.ValidExceptionApplication - Starting ValidExceptionApplication using Java 18.0.2 on MSI with PID 42004 (D:\Study\springboot\valid_exception\target\classes started by tiame in D:\Study\springboot\valid_exception)
+[2022-08-29 23:14:44:405][restartedMain] INFO  c.s.v.ValidExceptionApplication - No active profile set, falling back to 1 default profile: "default"
+[2022-08-29 23:14:46:2753][restartedMain] INFO  c.s.v.ValidExceptionApplication - Started ValidExceptionApplication in 2.591 seconds (JVM running for 3.102)
+[2022-08-29 23:15:03:19825][http-nio-8080-exec-1] ERROR c.s.v.c.ExceptionController - 클래스 내 handleException 호출, /exception, getRuntimeException 메서드 호출
